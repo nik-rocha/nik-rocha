@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F28322&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Nicollas+da+Silva+Rocha;I'm+16+years+old+and+I+live+in+Pompeia,+SP,+Brazil;I'm studying+System+Development+at+SENAI;Welcome+to+my+profile!+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F28322&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Nicollas+da+Silva+Rocha;I'm+16+years+old+and+I+live+in+Pompeia,+SP,+Brazil;Studying+System+Development+at+SENAI;Welcome+to+my+profile!+<3)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=knboo320&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nicollas Rocha github stats" /> 
