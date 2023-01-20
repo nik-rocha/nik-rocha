@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25BE48&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Nicollas+da+Silva+Rocha;I'm+16+years+old+and+I+live+in+Pompeia,+SP,+Brazil;Studying+System+Development+at+SENAI;Welcome+to+my+profile!+<3)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=knboo320&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nicollas Rocha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knboo320&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knboo320&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knboo320)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=knboo320&theme=gotham&hide_border=true&area=true)
 
