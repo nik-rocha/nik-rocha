@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03fca1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25BE48&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+my+name+is+Nicollas+da+Silva+Rocha;I'm+16+years+old+and+I+live+in+Pompéia,+SP,+Brazil;I'm+studying+System+Development+at+SENAI;Be+welcome!+S2)](https://git.io/typing-svg)
 
@@ -49,4 +49,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{knboo320}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03fca1&height=120&section=footer"/>
