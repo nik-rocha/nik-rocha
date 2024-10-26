@@ -29,13 +29,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<div style="display: inline_block">
- <h2> Certificados </h2>
- <div style="display: flex; justify-content: space-around;">
-  <a href="https://www.credly.com/badges/eeb53cf7-bdb0-4c67-9d01-85df541936cc/public_url">
-  <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
- </a>
- </div>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03fca1&height=120&section=footer"/>
