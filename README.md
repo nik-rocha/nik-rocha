@@ -24,4 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eeb53cf7-bdb0-4c67-9d01-85df541936cc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03fca1&height=120&section=footer"/>
