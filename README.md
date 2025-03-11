@@ -9,11 +9,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knboo320&bg_color=0c1414&color=3acb5b&line=00fa9a&point=3afd5b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=knboo320&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 ### Main skills:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
