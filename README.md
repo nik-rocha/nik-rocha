@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nik-rocha&layout=compact&theme=chartreuse-dark" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nik-rocha&bg_color=0c1414&color=3acb5b&line=00fa9a&point=3afd5b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Principais habilidades:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
